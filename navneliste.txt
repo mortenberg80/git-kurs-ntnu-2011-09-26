@@ -1,0 +1,15 @@
+Instruksjoner
+=============
+
+0. Gå til https://github.com/iterate/git-kurs-ntnu-2011-09-26
+1. Fork repoet til din egen GitHub-konto
+2. Clone repoet ned til din egen maskin
+3. Rediger denne filen og skriv inn navnet og epostadressen din under
+4. Stage denne filen for commit
+5. Commit endringene
+6. Push endringene tilbake til GitHub
+
+Navneliste
+==========
+
+Kristian <klette@iterate.no>
